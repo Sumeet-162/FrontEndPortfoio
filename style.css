@@ -44,7 +44,7 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 8vh;
   position: fixed;
   width: 100%;
   z-index: 1000;
@@ -55,7 +55,7 @@ nav {
 .nav-links {
   gap: 2rem;
   list-style: none;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 a {
